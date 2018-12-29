@@ -1,0 +1,86 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LukaszTargoszFilms",
+    "description": "",
+    "home_page_url": "https://gralinski83.github.io/lukasztargoszfilms",
+    "feed_url": "https://gralinski83.github.io/lukasztargoszfilms/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "lukasztargoszfilms"
+    },
+    "items": [
+        {
+            "id": "https://gralinski83.github.io/lukasztargoszfilms/about-me.html",
+            "url": "https://gralinski83.github.io/lukasztargoszfilms/about-me.html",
+            "title": "About me",
+            "summary": "HiMy name is Lukasz and I have million hobbies. Ones which absorbed&hellip;",
+            "content_html": "<div class=\"profile-description\">\n<h2 class=\"fn\">Hi</h2>\n<p id=\"bio\" class=\"description\">My name is Lukasz and I have million hobbies.<br> Ones which absorbed my life for over 18 years were aggressive rollerblading and snowboarding. Both sports made me look at world from different perspectives! One is urban second it’s a combination of winter and nature. Perfection. Two sides of spectrum.<br> <br> <br> Music is a big part of life. LIVE MUSIC. Sound created by people playing in different places for 20 or 20000 people made me want to capture emotions of musicians, public, atmosphere and energy. <br> <br> Everything what surrounds Us is dynamic, with every second being unique , and it is a perfect opportunity and a great joy of capturing the composition of all the factors of this moment.<br> <br> This is how these eyes were shaped .<br> <br> If you are craftman, musician or athlete and you wanna capture it, I am here to help You! <br> <br> Contact me! <br> <br> Instagram <a href=\"https://www.instagram.com/lukaszedge/?hl=en\" title=\"Instagram\" target=\"_blank\" rel=\"noopener noreferrer\">@lukaszedge</a><br> Email: Targosz.lukasz@gmail.com</p>\n</div>",
+            "image": "https://gralinski83.github.io/lukasztargoszfilms/media/posts/5/Screenshot-from-2018-11-06-15-42-38.png",
+            "author": {
+                "name": "lukasztargoszfilms"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-05T16:33:56+00:00",
+            "date_modified": "2018-12-14T22:08:05+00:00"
+        },
+        {
+            "id": "https://gralinski83.github.io/lukasztargoszfilms/scenery.html",
+            "url": "https://gralinski83.github.io/lukasztargoszfilms/scenery.html",
+            "title": "Scenery",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1011314.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1011314-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1004151.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1004151-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1000741.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1000741-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0033-2.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0033-2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0029.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0029-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270357.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270357-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270346.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270346-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/1270346.jpg",
+            "author": {
+                "name": "lukasztargoszfilms"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-05T16:33:48+00:00",
+            "date_modified": "2018-12-14T21:46:06+00:00"
+        },
+        {
+            "id": "https://gralinski83.github.io/lukasztargoszfilms/business-clip.html",
+            "url": "https://gralinski83.github.io/lukasztargoszfilms/business-clip.html",
+            "title": "Business clip",
+            "summary": "I already worked and filmed for companies and brands like: Dixons Retail,&hellip;",
+            "content_html": "<header class=\"entry-header\">\n<p class=\"entry-title\"><code>I already worked and filmed for companies and brands like: Dixons Retail, University of Nottingham, TEDx , Sid Sottung Academy.</code></p>\n</header>\n<div class=\"entry-content\">\n<p><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/3/cropped-dsc_3216-edit-edit-2-edit2.jpg\" alt=\"\" width=\"1000\" height=\"313\"></p>\n<figure class=\"post__video\"><iframe width=\"800\" height=\"449\" src=\"https://www.youtube.com/embed/YbP8szuKPCk\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n</div>",
+            "image": "https://gralinski83.github.io/lukasztargoszfilms/media/posts/3/dsc_3216-edit-edit-2-edit-e1527285642456.jpg",
+            "author": {
+                "name": "lukasztargoszfilms"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-05T16:33:28+00:00",
+            "date_modified": "2018-12-14T21:46:09+00:00"
+        },
+        {
+            "id": "https://gralinski83.github.io/lukasztargoszfilms/aerial.html",
+            "url": "https://gralinski83.github.io/lukasztargoszfilms/aerial.html",
+            "title": "Aerial",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/r5GKM1lS4sY\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/mAwuAFfkQY8\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>",
+            "image": "https://gralinski83.github.io/lukasztargoszfilms/media/posts/2/dji_0033-2.jpg",
+            "author": {
+                "name": "lukasztargoszfilms"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-05T16:33:03+00:00",
+            "date_modified": "2018-12-14T21:46:13+00:00"
+        },
+        {
+            "id": "https://gralinski83.github.io/lukasztargoszfilms/music.html",
+            "url": "https://gralinski83.github.io/lukasztargoszfilms/music.html",
+            "title": "Music",
+            "summary": " Music surrounds Us, it everywhere, its part of daily beat.I started journey&hellip;",
+            "content_html": "<header class=\"entry-header\">\n<h1 class=\"entry-title align-center\"><code> </code></h1>\n</header><address class=\"entry-content\"><code>Music surrounds Us, it everywhere, its part of daily beat.I started journey with filming live music in 2010, through all those years  I filmed small and big bands from little recording studio session to big festival stage. Its all about capturing the moment and emotions which connected with the sound crate audio visual experience.</code><br><br></address>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/DS_NhxVKNwg\" allowfullscreen=\"allowfullscreen\" ></iframe>    </figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/-2uxX9Y8GBo\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ZgORW-8dCDE\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<figure class=\"post__video\">\n<figure class=\"post__video\"></figure>\n<figure class=\"post__video\"></figure>\n</figure>",
+            "image": "https://gralinski83.github.io/lukasztargoszfilms/media/posts/1/1270346.jpg",
+            "author": {
+                "name": "lukasztargoszfilms"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-05T16:32:44+00:00",
+            "date_modified": "2018-12-15T20:24:52+00:00"
+        }
+    ]
+}
