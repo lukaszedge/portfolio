@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>LukaszTargoszFilms</title>
-    <link href="https://lukaszedge.github.io/portfolio/feed.xml" rel="self" />
-    <link href="https://lukaszedge.github.io/portfolio" />
+    <link href="https://theseeyes.co.uk/feed.xml" rel="self" />
+    <link href="https://theseeyes.co.uk" />
     <updated>1970-01-01T00:00:00+00:00</updated>
     <author>
         <name>lukasztargoszfilms</name>
     </author>
-    <id>https://lukaszedge.github.io/portfolio</id>
+    <id>https://theseeyes.co.uk</id>
 
 </feed>
