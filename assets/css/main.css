@@ -956,6 +956,7 @@ textarea {
   .hero a {
     text-decoration: underline; }
 
+
 .category {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1473,3 +1474,21 @@ textarea {
   color: #111111; }
 
 /*# sourceMappingURL=main.css.map */
+
+
+
+
+
+
+#myVideo {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translateX(-50%) translateY(-50%);
+}
+
