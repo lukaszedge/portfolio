@@ -74,7 +74,7 @@ html {
 
 body {
   background: #ffffff;
-  color: #ffffff;
+  color: #111111;
   font-family: "Nunito", serif;
   font-weight: 300;
   line-height: 1.6;
@@ -88,17 +88,17 @@ a {
   transition: all 0.12s linear 0s; }
 
 a:hover {
-  color: #ffffff; }
+  color: #111111; }
 
 a:active {
-  color: #ffffff; }
+  color: #111111; }
 
 a:focus {
-  color: #ffffff;
+  color: #111111;
   outline: none; }
 
 .inverse {
-  color: #ffffff;
+  color: #111111;
   text-decoration: none;
   -webkit-transition: all 0.12s linear 0s;
   -o-transition: all 0.12s linear 0s;
@@ -234,7 +234,7 @@ blockquote {
   font-style: italic;
   padding: 0.75rem 0 0.75rem 1.75rem; }
   blockquote cite {
-    color: #ffffff;
+    color: #111111;
     display: block;
     font-size: 0.88889rem;
     margin-top: 0.75rem; }
@@ -709,7 +709,7 @@ textarea {
       overflow: visible;
       text-align: center; } }
   .navbar__menu li {
-    color: #ffffff;
+    color: #111111;
     font-size: 0.79012rem;
     list-style: none;
     text-transform: uppercase; }
@@ -912,7 +912,7 @@ textarea {
       -ms-transform: translateY(-10%);
       transform: translateY(-10%);
       visibility: hidden; }
-      .is-opened > ul li ul li {
+      .is-opened > ul li ul li  {
         border-top: 1px solid #dedede; }
     .is-opened > ul li:hover > ul {
       height: auto;
