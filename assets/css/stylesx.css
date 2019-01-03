@@ -121,6 +121,7 @@ ol,
 dl,
 table,
 hr {
+  color: white;
   margin-top: calc(1rem + 0.25vw); }
 
 blockquote,
