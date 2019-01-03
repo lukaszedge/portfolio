@@ -1390,7 +1390,8 @@ textarea {
   text-align: center; }
   .footer__copyright {
     color: #888888;
-    font-size: 0.6243rem;
+    font-size: 0.7243rem;
+    font-weight: bold;
     letter-spacing: 1px;
     text-transform: uppercase;
     padding: 1rem 0; }
@@ -1406,11 +1407,11 @@ textarea {
 
 .icon {
   display: inline-block;
-  height: 0.9rem;
+  height: 1.1rem;
   -webkit-transition: all 0.12s linear 0s;
   -o-transition: all 0.12s linear 0s;
   transition: all 0.12s linear 0s;
-  width: 0.9rem; }
+  width: 1.1rem; }
 
 .gallery {
   margin: calc(1.5rem + 1vw) -0.5rem; }
